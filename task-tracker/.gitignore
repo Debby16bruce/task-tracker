@@ -1,0 +1,8 @@
+.gradle/
+__pycache__/
+venv/
+.vscode/
+*.pyc
+*.log
+*.tmp
+.DS_Store
